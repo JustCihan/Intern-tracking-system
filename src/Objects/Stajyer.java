@@ -21,7 +21,6 @@ public class Stajyer extends User {
 
     public Stajyer() {}
 
-    // Stajyer'e özgü getter ve setter metodları
     public String getNickname() { return nickname; }
     public void setNickname(String nickname) { this.nickname = nickname; }
     public String getTelefon() { return telefon; }
